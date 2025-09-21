@@ -1,6 +1,6 @@
 # Project 01: 📊 E-commerce Sales KPI Analytics Project - Jamesmerce E-commerce
 
-This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, covering January 2016 to December 2023) through a Python ETL → SQL → Power BI pipeline to generate KPI reports and interactive dashboards that support business decision-making  
+This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, covering January 2013 to December 2016) through a Python ETL → SQL → Power BI pipeline to generate KPI reports and interactive dashboards that support business decision-making  
 
 ---
 ## Project Pipeline

@@ -4,10 +4,10 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 
 ---
 ## Project Pipeline
-![Project Pipeline](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
+![Project Pipeline](Project01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
 
 ## Project Dashboard
-![Project Dashboard](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_dashboard.png)
+![Project Dashboard](Project01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_dashboard.png)
 
 ## Step by Step
 

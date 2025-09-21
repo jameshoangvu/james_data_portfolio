@@ -4,8 +4,7 @@ This project analyzes e-commerce sales data through an **Python ETL → SQL → 
 
 ---
 ## Data Pipeline
-![Data Pipeline](Jamesmerce_KPI_Analytics/images
-/Jamesmerce_KPI_Workflow.png)
+![Data Pipeline](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
 ## Step by Step
 
 ### 1. ETL with Python

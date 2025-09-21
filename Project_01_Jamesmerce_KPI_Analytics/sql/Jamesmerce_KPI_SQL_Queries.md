@@ -8,7 +8,7 @@ All KPI SQL queries for Jamesmerce E-commerce using the dbo.ECData table.
 SELECT SUM(Sales) AS Total_Revenue
 FROM dbo.ECData;
 
-![](Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Revenue.png)
+![](KPI_result_images/Total_Revenue.png)
 
 -- b. Revenue by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level, 
@@ -100,6 +100,7 @@ FROM dbo.ECData
 ORDER BY Total_Discount_Amount DESC;
 
 ![](Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Discount.png)
+
 
 
 

@@ -3,7 +3,7 @@
 SELECT SUM(Sales) AS Total_Revenue
 FROM dbo.ECData;
 
-![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png?raw=true)
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Revenue.png?raw=true)
 
 -- b. Revenue by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level, 
@@ -11,7 +11,6 @@ SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level,
 FROM dbo.ECData
 GROUP BY Discount 
 ORDER BY Discount;
-![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png?raw=true)
 
 -- 2. Profit ($)
 -- a. Total Profit (Positive Profit + Negative Profit)

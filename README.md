@@ -1,10 +1,13 @@
 # Project01: 📊 E-commerce Sales KPI Analytics Project - Jamesmerce E-commerce
 
+## Project Dashboard
+![Project Dashboard](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_dashboard.png)
+
 This project analyzes e-commerce sales data through an **Python ETL → SQL → Power BI** pipeline to generate KPI reports and interactive dashboards that support business decision-making.  
 
 ---
 ## Project Pipeline
-![Data Pipeline](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
+![Project Pipeline](Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
 
 ## Step by Step
 

@@ -5,7 +5,7 @@
 
 -- a. Total Revenue
 SELECT SUM(Sales) AS Total_Revenue
-FROM dbo.ECData;
+FROM dbo.ECData;``` `
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Revenue.png?raw=true)
 -- b. Revenue by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level, 

@@ -17,7 +17,7 @@ FROM dbo.ECData
 GROUP BY Discount 
 ORDER BY Discount;
 
-![](Revenue_by_discount_level.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Revenue_by_discount_level.png)
 
 
 -- 2. Profit ($)
@@ -25,21 +25,21 @@ ORDER BY Discount;
 SELECT SUM(Profit) AS Total_Profit
 FROM dbo.ECData;
 
-![](Total_profit.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Total_profit.png)
 
 -- b. Total Positive Profit
 SELECT SUM(Profit) AS Total_Positive_Profit
 FROM dbo.ECData
 WHERE Profit > 0;
 
-![](Total_positive_profit.png 
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Total_positive_profit.png 
 
 -- c. Total Negative Profit
 SELECT SUM(Profit) AS Total_Negative_Profit
 FROM dbo.ECData
 WHERE Profit < 0;
 
-![](Total_negative_profit.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Total_negative_profit.png)
 
 -- d. Profit by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level,
@@ -48,14 +48,14 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 
-![](Profit_by_discount_level.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Profit_by_discount_level.png)
 
 -- 3. Profit Ratio
 -- a. Overall Profit Ratio
 SELECT CONCAT(CAST(ROUND(SUM(Profit) * 1.0 / SUM(Sales) * 100, 2) AS VARCHAR(10)), '%') AS Overall_Profit_Ratio
 FROM dbo.ECData;
 
-![](Overall_Profit_Ratio.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Overall_Profit_Ratio.png)
 
 -- b. Median Profit Ratio
 SELECT DISTINCT CONCAT(CAST(ROUND(PERCENTILE_CONT(0.5)
@@ -63,7 +63,7 @@ SELECT DISTINCT CONCAT(CAST(ROUND(PERCENTILE_CONT(0.5)
                 OVER(), 2) AS VARCHAR(10)), '%') AS Median_Profit_Ratio
 FROM dbo.ECData;
 
-![](Median_profit_ratio.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Median_profit_ratio.png)
 
 -- c. Profit Ratio by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level,
@@ -72,14 +72,14 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 
-![](Profit_ratio_by_discount_level.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Profit_ratio_by_discount_level.png)
 
 -- 4. Quantity
 -- a. Total Quantity
 SELECT SUM(Quantity) AS Total_Quantity
 FROM dbo.ECData;
 
-![](Total_quantity.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Total_quantity.png)
 
 -- b. Units Sold by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS VARCHAR(10)), '%') AS Discount_Level, 
@@ -88,7 +88,7 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 
-![](Quantity_by_discount_level.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Quantity_by_discount_level.png)
 
 -- 5. Discount
 -- a. Total Discount Amount
@@ -99,5 +99,6 @@ SELECT ROUND(
 FROM dbo.ECData
 ORDER BY Total_Discount_Amount DESC;
 
-![](Total_Discount.png)
+![](Project_01_Jamesmerce_KPI_Analytics/sql/Total_Discount.png)
+
 

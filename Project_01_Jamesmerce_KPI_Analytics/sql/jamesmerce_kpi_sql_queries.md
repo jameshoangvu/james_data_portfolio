@@ -8,6 +8,7 @@ SELECT SUM(Sales) AS Total_Revenue
 FROM dbo.ECData;
 ``` 
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Revenue.png?raw=true)
+
 ```sql
 -- b. Revenue by Discount Level
 SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level, 
@@ -16,6 +17,7 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Revenue_by_discount_level.png?raw=true)
 
 -- 2. Profit ($)
 ```sql
@@ -23,6 +25,7 @@ ORDER BY Discount;
 SELECT SUM(Profit) AS Total_Profit
 FROM dbo.ECData;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_profit.png)
 
 ```sql
 -- b. Total Positive Profit
@@ -30,6 +33,7 @@ SELECT SUM(Profit) AS Total_Positive_Profit
 FROM dbo.ECData
 WHERE Profit > 0;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_positive_profit.png)
 
 ```sql
 -- c. Total Negative Profit
@@ -37,7 +41,7 @@ SELECT SUM(Profit) AS Total_Negative_Profit
 FROM dbo.ECData
 WHERE Profit < 0;
 ```
-
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_negative_profit.png)
 
 ```sql
 -- d. Profit by Discount Level
@@ -47,6 +51,7 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Profit_by_discount_level.png)
 
 -- 3. Profit Ratio
 ```sql
@@ -55,6 +60,7 @@ SELECT CONCAT(CAST(ROUND(SUM(Profit) * 1.0 / SUM(Sales) * 100, 2) AS VARCHAR(10)
        AS Overall_Profit_Ratio
 FROM dbo.ECData;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Overall_Profit_Ratio.png)
 
 ```sql
 -- b. Median Profit Ratio
@@ -63,6 +69,7 @@ SELECT DISTINCT CONCAT(CAST(ROUND(
        ) AS VARCHAR(10)), '%') AS Median_Profit_Ratio
 FROM dbo.ECData;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Median_profit_ratio.png)
 
 ```sql
 -- c. Profit Ratio by Discount Level
@@ -73,12 +80,15 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Profit_ratio_by_discount_level.png)
+
 -- 4. Quantity
 ```sql
 -- a. Total Quantity
 SELECT SUM(Quantity) AS Total_Quantity
 FROM dbo.ECData;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_quantity.png)
 
 ```sql
 -- b. Units Sold by Discount Level
@@ -88,6 +98,7 @@ FROM dbo.ECData
 GROUP BY Discount
 ORDER BY Discount;
 ```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Quantity_by_discount_level.png)
 
 -- 5. Discount
 ```sql

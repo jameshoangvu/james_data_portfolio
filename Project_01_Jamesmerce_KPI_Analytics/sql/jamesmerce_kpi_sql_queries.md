@@ -109,3 +109,5 @@ SELECT ROUND(
 ) AS Total_Discount_Amount
 FROM dbo.ECData
 ORDER BY Total_Discount_Amount DESC;
+```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Discount.png)

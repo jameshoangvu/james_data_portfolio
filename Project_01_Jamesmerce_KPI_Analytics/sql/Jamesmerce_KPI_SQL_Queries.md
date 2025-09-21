@@ -16,6 +16,7 @@ SELECT CONCAT(CAST(Discount * 100 AS INT), '%') AS Discount_Level,
 FROM dbo.ECData
 GROUP BY Discount 
 ORDER BY Discount;
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png?raw=true)
 
 -- 2. Profit ($)
 -- a. Total Profit (Positive Profit + Negative Profit)
@@ -77,6 +78,7 @@ SELECT ROUND(
        ) AS Total_Discount_Amount
 FROM dbo.ECData
 ORDER BY Total_Discount_Amount DESC;
+
 
 
 

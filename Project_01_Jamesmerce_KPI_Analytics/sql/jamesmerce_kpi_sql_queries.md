@@ -102,7 +102,7 @@ ORDER BY Discount;
 
 -- 5. Discount
 ```sql
--- a. Total Discount Amount
+-- a. Total Discount Amount ($)
 SELECT ROUND(
        SUM(Sales * Discount / NULLIF(1 - Discount, 0)), 
        2

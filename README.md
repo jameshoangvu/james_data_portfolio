@@ -39,7 +39,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
   - Revenue & Profit by Discount Level.  
   - Quantity of products sold by Discount Level.  
   - Quantity of products sold by Category.  
-  - Regional analysis by State.  
+  - Top 5 highest-profit products.  
   - KPI Growth (compared to the previous month and year).  
 
 

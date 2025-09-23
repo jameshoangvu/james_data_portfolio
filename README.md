@@ -31,7 +31,8 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
    - Total Discount  
 
 ### 3. Power BI – KPI Dashboard
-- Connect Power BI to the cleaned CSV file.  
+- Connect Power BI to the cleaned CSV file.
+- Standardized data using Power Query. 
 - Create DAX measures for KPI calculations.  
 - Build **KPI Cards** for Revenue, Profit, Orders, and Avg. Discount.  
 - Design an interactive dashboard including:

@@ -1,4 +1,4 @@
- # Business Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016) (Jan 2013 – Dec 2016)
+ # Business Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016)
 
 ## 1. KPI Overview
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_KPI_Cards.png)

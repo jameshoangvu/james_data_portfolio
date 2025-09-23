@@ -46,7 +46,7 @@
 
 ## 4. Impact of Discount Policy
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics02.png)
-- Revenue & profit mainly come from products with **no discount (0%)** or **low discount (10–20%)**.  
+- Revenue & profit mainly come from products with **no discount (0%)** or **low discount (20%)**.  
 - Higher discounts (≥30%–80%):  
   - Very low sales volume.  
   - Profit even turns negative.  

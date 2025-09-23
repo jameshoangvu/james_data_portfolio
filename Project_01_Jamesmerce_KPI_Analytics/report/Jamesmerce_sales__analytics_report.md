@@ -1,22 +1,22 @@
-# 📊 # Business Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016) (Jan 2013 – Dec 2016)
+ # Business Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016) (Jan 2013 – Dec 2016)
 
 ## 1. KPI Overview
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_KPI_Cards.png)
 - **Total Revenue:** $1.93M  
-  ⬆ 48.7% YoY, maintaining strong monthly growth momentum.  
+  Increased by 48.7% YoY, maintaining strong monthly growth momentum.  
 
 - **Total Profit:** $230K  
-  ⬆ 51.2% YoY, profit growth outpaced revenue growth.  
+  Increased by 51.2% YoY, profit growth outpaced revenue growth.  
 
 - **Total Quantity Sold:** 32K  
-  ⬆ +10,492 YoY → reflecting expanding market demand.  
+  Increased by +10,492 YoY, reflecting expanding market demand.  
 
 - **Overall Profit Ratio:** 11.94%  
-  Stable compared to last year, though slightly decreased compared to last month.  
+  Stable compared to last year, though markedly decreased compared to last month.  
   This ratio is considered “healthy” for a multi-category retail business.  
 
 - **Total Discount:** $495K  
-  ⬆ +$159,843 YoY → showing that the company is pushing discount policies to stimulate demand.  
+  Increased by +$159,843 YoY, showing that the company is pushing discount policies to stimulate demand.  
 
 ---
 
@@ -37,9 +37,9 @@
 4. Canon Laser Copier – 5,516  
 5. Plantronics Headset System – 5,210  
 
-🔎 **Analysis:**  
+ **Analysis:**  
 - 4/5 products are from **Technology**, highlighting its dominance.  
-- **Canon Advanced Copier** leads with profit nearly double that of the second product → should be prioritized in marketing, distribution, and inventory management.  
+- **Canon Advanced Copier** leads with profit nearly double that of the second product, should be prioritized in marketing, distribution, and inventory management.  
 
 ---
 
@@ -50,7 +50,7 @@
   - Very low sales volume.  
   - Profit even turns negative.  
 
-👉 **Conclusion:** Deep discounting has not been effective. Discount strategies should be adjusted to optimize profit instead of relying on heavy price cuts.  
+ **Conclusion:** Deep discounting has not been effective. Discount strategies should be adjusted to optimize profit instead of relying on heavy price cuts.  
 
 ---
 
@@ -71,9 +71,9 @@
 - **Home Office:** 17.6%  
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
 **Insight:**  
-- Consumers account for the majority of sales volume.  
+- The Consumer segment account for the majority of sales volume.  
 - When applying filters, data shows that **Consumer** (individual customers), despite being smaller-scale buyers, also purchase Technology products significantly.  
-  - Contribution: ~16K quantity and ~$107K profit across 4 years — nearly equal to the combined contribution of Corporate + Home Office.  
+  - Contribution: ~16K quantity and ~$107K profit across 4 years — nearly equal to the combined contribution of Corporate and Home Office.  
 - **Strategy:** Maintain Office Supplies for traffic/volume, while pushing Technology sales to both **Corporate and Consumer** segments to maximize profit.  
 
 ---

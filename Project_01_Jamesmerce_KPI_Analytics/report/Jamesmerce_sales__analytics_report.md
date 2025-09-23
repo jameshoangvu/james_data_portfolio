@@ -30,6 +30,7 @@
 
 ## 3. Top Profit-Generating Products
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics05.png)
+
 **Top 5 Highest-Profit Products:**  
 1. Canon Advanced Copier – 25,200  
 2. Fellowes Manual Bind – 12,453  

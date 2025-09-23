@@ -73,7 +73,11 @@
 
 **Insight:**  
 - The Consumer segment account for the majority of sales volume.  
-- When applying filters, the data shows that individual customers (**Consumer**), despite being smaller-scale buyers, also purchase **Technology products** in significant volume, accounting for **~3K** units—higher than **Corporate** (**~2K**). The **Consumer** ssegment has contributed **~16K** quantity and **~$107K** profit across 4 years. nearly equal to the combined contribution of **Corporate** and **Home Office**.
+- When applying filters, the data shows that individual customers (**Consumer**), despite being smaller-scale buyers, also purchase **Technology products** in significant volume, accounting for **~3K** units—higher than **Corporate** (**~2K**).
+<img width="707" height="800" alt="image" src="https://github.com/user-attachments/assets/c0a89905-0e5f-4d3c-b66e-a9de7922177b" />
+
+
+- The **Consumer** segment has contributed **~16K** quantity and **~$107K** profit across 4 years, nearly equal to the combined contribution of **Corporate** and **Home Office**.
    ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
  
 - **Strategy:** Maintain Office Supplies for traffic/volume, while pushing Technology sales to both **Corporate and Consumer** segments to maximize profit.  

@@ -74,7 +74,8 @@
 **Insight:**  
 - The Consumer segment account for the majority of sales volume.  
 - When applying filters, the data shows that individual customers (**Consumer**), despite being smaller-scale buyers, also purchase **Technology products** in significant volume, accounting for **~3K** units—higher than **Corporate** (**~2K**):
-<img width="707" height="800" alt="image" src="https://github.com/user-attachments/assets/c0a89905-0e5f-4d3c-b66e-a9de7922177b" />
+<img width="702" height="792" alt="image" src="https://github.com/user-attachments/assets/a855c21f-3962-46b9-8537-d30df2502cff" />
+
 
 
 

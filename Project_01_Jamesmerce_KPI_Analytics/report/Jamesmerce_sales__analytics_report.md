@@ -73,12 +73,12 @@
 
 **Insight:**  
 - The Consumer segment account for the majority of sales volume.  
-- When applying filters, data shows that **Consumer** (individual customers), despite being smaller-scale buyers, also purchase Technology products significantly.  
-  - Contribution: ~16K quantity and ~$107K profit across 4 years — nearly equal to the combined contribution of Corporate and Home Office.
-   ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png) 
+- When applying filters, the data shows that individual customers (Consumer), despite being smaller-scale buyers, also purchase Technology products in significant volume, accounting for ~3K units—higher than Corporate (~2K). 
+  - Contribution: ~16K quantity and ~$107K profit across 4 years — nearly equal to the combined contribution of **Corporate** and **Home Office**.
+   ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
+ 
 - **Strategy:** Maintain Office Supplies for traffic/volume, while pushing Technology sales to both **Corporate and Consumer** segments to maximize profit.  
 
----
 
 ## 6. Recommendations
 1. **Focus on key products:** Especially Canon Advanced Copier and Technology category.  

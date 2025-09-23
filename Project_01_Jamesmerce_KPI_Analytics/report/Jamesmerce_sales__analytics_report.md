@@ -1,6 +1,7 @@
-# 📊 Business Data Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016)
+# 📊 # Business Analysis Report - Jamesmerce E-commerce (Jan 2013 – Dec 2016) (Jan 2013 – Dec 2016)
 
 ## 1. KPI Overview
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_KPI_Cards.png)
 - **Total Revenue:** $1.93M  
   ⬆ 48.7% YoY, maintaining strong monthly growth momentum.  
 
@@ -20,6 +21,7 @@
 ---
 
 ## 2. Revenue & Profit Trends
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics01.png)
 - Revenue and profit grew steadily over the 4-year period.  
 - Clear downturns occurred in **Q1 (2014, 2015, 2016)**.  
 - **Note:** The overall trend is positive, but seasonal/cyclical factors should be analyzed to address these declines.  
@@ -27,6 +29,7 @@
 ---
 
 ## 3. Top Profit-Generating Products
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics05.png)
 **Top 5 Highest-Profit Products:**  
 1. Canon Advanced Copier – 25,200  
 2. Fellowes Manual Bind – 12,453  
@@ -41,6 +44,7 @@
 ---
 
 ## 4. Impact of Discount Policy
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics02.png)
 - Revenue & profit mainly come from products with **no discount (0%)** or **low discount (10–20%)**.  
 - Higher discounts (≥30%–80%):  
   - Very low sales volume.  
@@ -51,7 +55,7 @@
 ---
 
 ## 5. Sales Quantity Analysis by Category & Segment
-
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics03.png)
 ### 5.1 Quantity by Category
 - **Office Supplies:** 60.05%  
 - **Furniture:** 21.55%  
@@ -65,7 +69,7 @@
 - **Consumer:** 51.73%  
 - **Corporate:** 30.67%  
 - **Home Office:** 17.6%  
-
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
 **Insight:**  
 - Consumers account for the majority of sales volume.  
 - When applying filters, data shows that **Consumer** (individual customers), despite being smaller-scale buyers, also purchase Technology products significantly.  

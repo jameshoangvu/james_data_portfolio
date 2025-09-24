@@ -7,7 +7,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 ![Project Pipeline](Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_KPI_Workflow.png)
 
 ## Project Dashboard
-![Project Dashboard](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_Sales_KPI_dashboard.png).
+![Project Dashboard](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_Sales_KPI_dashboard.png)
 
 ## Project Purpose & Audience
 ### Purpose
@@ -17,7 +17,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 - **Trend & Seasonality Analysis**: Detect recurring seasonal downturns to support proactive planning.  
 
 ### Audience
-- **Executive Management and Senior Business Leaders** (CEO, CFO, Head of Sales/Marketing)
+- **Executive Management and Senior Business Leaders** (CEO, CFO, Head of Sales/Marketing).
 
 ## Step by Step
 

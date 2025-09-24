@@ -9,6 +9,16 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 ## Project Dashboard
 ![Project Dashboard](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_Sales_KPI_dashboard.png).
 
+## 🎯 Project Purpose & Audience
+### Purpose
+- **KPI Monitoring**: Track revenue, profit, margin, discounts, and sales volume.  
+- **Product & Customer Insights**: Identify top profit drivers, analyze category/segment contributions.  
+- **Policy Evaluation**: Assess the effectiveness of discount strategies on profit.  
+- **Trend & Seasonality Analysis**: Detect recurring seasonal downturns to support proactive planning.  
+
+### Audience
+- **Executive Management and Senior Business Leaders** (CEO, CFO, Head of Sales/Marketing)
+
 ## Step by Step
 
 ### 1. ETL with Python

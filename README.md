@@ -25,7 +25,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 - Cleaned and standardized raw sales data (dates, customer names, discounts).
 - Handled missing values, removed outliers, and converted data types.
 - Recalculated profit margin for more accurate analysis.
-- Exported the cleaned dataset as `Jamesmerce__Clean_Data.csv` for SQL queries and dashboards.
+- Exported the cleaned dataset as `Jamesmerce_Clean_Data.csv` for SQL queries and dashboards.
 
 ### 2. SQL – KPI Queries
 1. **Import the cleaned dataset into the SQL Database.**

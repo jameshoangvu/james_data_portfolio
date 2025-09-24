@@ -1,4 +1,4 @@
-# Project 01: 📊 E-commerce Sales KPI Analytics Project - Jamesmerce E-commerce
+# Project 01: E-commerce Sales KPI Analytics Project - Jamesmerce E-commerce
 
 This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, covering January 2013 to December 2016 in the United States) through a Python ETL → SQL → Power BI pipeline to generate KPI reports and interactive dashboards that support business decision-making.  
 
@@ -9,7 +9,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
 ## Project Dashboard
 ![Project Dashboard](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/images/Jamesmerce_Sales_KPI_dashboard.png).
 
-## 🎯 Project Purpose & Audience
+## Project Purpose & Audience
 ### Purpose
 - **KPI Monitoring**: Track revenue, profit, margin, discounts, and sales volume.  
 - **Product & Customer Insights**: Identify top profit drivers, analyze category/segment contributions.  

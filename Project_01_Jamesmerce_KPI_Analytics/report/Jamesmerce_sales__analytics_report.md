@@ -87,7 +87,7 @@
 
 ## 6. Recommendations
 1. **Focus on key products:** Especially Canon Advanced Copier and Technology category.  
-2. **Review discount policy:** Avoid discounts >30%; test alternatives such as bundles, free gifts, loyalty points.  
+2. **Review discount policy:** Avoid discounts >30%; test alternatives such as bundles, free gifts, loyalty points to maintain and improve Profit Ratio.
 3. **Monitor seasonality:** Investigate revenue/profit declines in Q1 each year and prepare responses.  
 4. **Strengthen high-performing groups:**  
    - Keep Office Supplies as traffic/volume drivers.  

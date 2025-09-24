@@ -89,8 +89,7 @@
 1. **Focus on key products:** Especially Canon Advanced Copier and Technology category.  
 2. **Review discount policy:** Avoid discounts >30%; test alternatives such as bundles, free gifts, loyalty points.  
 3. **Monitor seasonality:** Investigate revenue/profit declines in Q1 each year and prepare responses.  
-4. **Control fixed costs:** To maintain and improve profit ratio.  
-5. **Strengthen high-performing groups:**  
+4. **Strengthen high-performing groups:**  
    - Keep Office Supplies as traffic/volume drivers.  
    - Prioritize Technology for Corporate and Consumer to maximize profit.  
 

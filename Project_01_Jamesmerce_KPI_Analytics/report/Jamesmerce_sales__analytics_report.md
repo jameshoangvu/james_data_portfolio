@@ -80,7 +80,7 @@
 
 
 - The **Consumer** segment contributed approximately **16K** quantity and **$107K** profit across 4 years, nearly equal to the combined contribution of **Corporate** and **Home Office**.
-   ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/report/images/Jamesmerce_dashboard_analytics04.png)
  
 - **Strategy:** Maintain Office Supplies for traffic/volume, while pushing Technology sales to both **Corporate and Consumer** segments to maximize profit.  
 

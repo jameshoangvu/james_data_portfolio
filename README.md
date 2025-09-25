@@ -52,7 +52,7 @@ This project analyzes e-commerce sales data (over 10,000 rows from Kaggle, cover
   - Quantity of products sold by Category.  
   - Top 5 highest-profit products.  
   - KPI Growth (compared to the previous month and year).
-  - 
+  
 ## Key Achievements
 - Reduced reporting time by about 70% compared to manual Excel-based reporting through automated data cleaning and dashboard updates, thereby optimizing time and work efficiency.  
 - Improved data accuracy and consistency by implementing standardized ETL processes and SQL validation checks.  

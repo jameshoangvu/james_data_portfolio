@@ -111,3 +111,26 @@ FROM dbo.ECData
 ORDER BY Total_Discount_Amount DESC;
 ```
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/Total_Discount.png)
+
+-- 6. Top Products (Highest Profit + Lowest Profit)
+```sql
+-- a. Top 5 Highest Profit Products 
+SELECT TOP 5
+    [Product Name],
+    SUM(Profit) AS Total_Profit
+FROM dbo.ECData
+GROUP BY [Product Name]
+ORDER BY SUM(Profit) DESC;
+```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/top_5_highest_profit_products.png)
+
+```sql
+-- b. Top 5 Lowest Profit Products 
+SELECT TOP 5
+    [Product Name],
+    SUM(Profit) AS Total_Profit
+FROM dbo.ECData
+GROUP BY [Product Name]
+ORDER BY SUM(Profit) ASC;
+```
+![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/top_5_lowest_profit_products.png)

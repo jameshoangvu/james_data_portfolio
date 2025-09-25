@@ -114,7 +114,7 @@ ORDER BY Total_Discount_Amount DESC;
 
 -- 6. Top Products (Highest Profit + Lowest Profit)
 ```sql
--- a. Top 5 Highest Profit Products 
+-- a. Top 5 Highest Profit Products (Dashboard 01)
 SELECT TOP 5
     [Product Name],
     SUM(Profit) AS Total_Profit
@@ -125,12 +125,13 @@ ORDER BY SUM(Profit) DESC;
 ![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/top_5_highest_profit_products.png)
 
 ```sql
--- b. Top 5 Lowest Profit Products 
-SELECT TOP 5
+-- b. Top 10 Loss-Making Products by Profit (Dashboard 02)
+SELECT TOP 10
     [Product Name],
     SUM(Profit) AS Total_Profit
 FROM dbo.ECData
 GROUP BY [Product Name]
 ORDER BY SUM(Profit) ASC;
 ```
-![](https://github.com/jameshoangvu/james_data_portfolio/blob/main/Project_01_Jamesmerce_KPI_Analytics/sql/KPI_result_images/top_5_lowest_profit_products.png)
+<img width="591" height="277" alt="image" src="https://github.com/user-attachments/assets/99de9c44-f340-4c00-a402-58193ddc6315" />
+
